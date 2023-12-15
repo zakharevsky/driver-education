@@ -53,107 +53,44 @@
     "group": "Start Driving",
     "pages": [
       "start-driving/introduction",
-      {
-        "group": "Getting a Permit/License",
-        "pages": [
-          "cdl-definition",
-          "requirements-eligibility",
-          "application-process",
-          "study-materials",
-          "essentials/practice-tests"
-        ]
-      },
-      "fees-costs"
+      "start-driving/fees-costs"
     ]
   },
   {
     "group": "Drive Better",
     "pages": [
-      "drive-better/introduction",
-      {
-        "group": "Specific CDL Types",
-        "pages": [
-          "cdl-types/cdl-permit",
-          "cdl-types/class-a-cdl",
-          "cdl-types/class-b-cdl",
-          "cdl-types/class-c-cdl"
-        ]
-      }
+      "drive-better/introduction"
     ]
   },
 
   {
   "group": "Car Care",
   "pages": [
-    "car-care/introduction",
-    {
-      "group": "Specific Endorsements",
-      "pages": [
-        "cdl-types/endorsements/air-brakes",
-        "cdl-types/endorsements/hazmat",
-        "cdl-types/endorsements/passenger",
-        "cdl-types/endorsements/school-bus",
-        "cdl-types/endorsements/doubles-triples"
-      ]
-    }
+    "car-care/introduction"
   ]
 },
   {
     "group": "Ride Smart",
-    "ride-smart/introduction",
     "pages": [
        {
       "group": "Written exams",
       "pages": [
-        "essentials/written-tests/overview",
-        "essentials/written-tests/general-knowledge",
-        "essentials/written-tests/air-brakes",
-        "essentials/written-tests/combination",
-        "essentials/written-tests/hazmat",
-        "essentials/written-tests/tankers",
-        "essentials/written-tests/doubles-triples",
-        "essentials/written-tests/passenger",
-        "essentials/written-tests/school-bus"
+        "essentials/code",
+        "essentials/images",
+        "essentials/markdown",
+        "essentials/navigation",
+        "essentials/settings"
         
           ]
-        },
-
-        {
-        "group": "Practical exams",
-        "pages": [
-          "essentials/skills-test",
-          "essentials/pre-trip"
-        ]
-      },
-         "essentials/tsa-background-check",
-         "essentials/retake-policy"
+        }
     ]
   },
   {
     "group": "On the Road",
     "pages": [
-      "on-the-road/introduction",
-      "maintain/medical-exams",
-      "maintain/dot-physical-exam",
-      "maintain/upgrade"
+      "on-the-road/introduction"
     ]
-  },
-  {
-    "group": "ELDT Training & Certification",
-    "pages": [
-      "eldt-certification/eldt-training",
-      "eldt-certification/eldt-certificate",
-      "eldt-certification/training-provider-registry"
-    ]
-  },
-  {
-      "group": "CDL how-to guides",
-      "pages": [
-        "articles/start",
-        "articles/become-owner-operator",
-        "articles/truck-owner-operator"
-      ]
-    }
+  }
 ],
   "footerSocials": {
     "twitter": "https://twitter.com/driving_tests"
