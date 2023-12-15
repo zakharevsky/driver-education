@@ -93,7 +93,6 @@
         "cdl-types/endorsements/hazmat",
         "cdl-types/endorsements/passenger",
         "cdl-types/endorsements/school-bus",
-        "cdl-types/endorsements/tanker",
         "cdl-types/endorsements/doubles-triples"
       ]
     }
