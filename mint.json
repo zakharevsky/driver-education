@@ -50,7 +50,7 @@
   ],
  "navigation": [
   {
-    "group": "Introduction to CDL",
+    "group": "Start Driving",
     "pages": [
       "introduction",
       {
@@ -67,7 +67,7 @@
     ]
   },
   {
-    "group": "CDL Types & Permits",
+    "group": "Drive Better",
     "pages": [
       "cdl-types/classification",
       {
@@ -83,7 +83,7 @@
   },
 
   {
-  "group": "Endorsements & Restrictions",
+  "group": "Car Care",
   "pages": [
     "cdl-types/endorsements/introduction",
     {
@@ -100,7 +100,7 @@
   ]
 },
   {
-    "group": "CDL Exam Preparation",
+    "group": "Ride Smart",
     "pages": [
        {
       "group": "Written exams",
@@ -130,7 +130,7 @@
     ]
   },
   {
-    "group": "CDL Maintenance",
+    "group": "On the Road",
     "pages": [
       "maintain/renew",
       "maintain/medical-exams",
