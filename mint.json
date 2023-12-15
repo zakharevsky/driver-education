@@ -52,9 +52,9 @@
   {
     "group": "Start Driving",
     "pages": [
-      "introduction",
+      "start-driving/introduction",
       {
-        "group": "Getting a CDL",
+        "group": "Getting a Permit/License",
         "pages": [
           "cdl-definition",
           "requirements-eligibility",
@@ -69,7 +69,7 @@
   {
     "group": "Drive Better",
     "pages": [
-      "cdl-types/classification",
+      "drive-better/introduction",
       {
         "group": "Specific CDL Types",
         "pages": [
@@ -85,7 +85,7 @@
   {
   "group": "Car Care",
   "pages": [
-    "cdl-types/endorsements/introduction",
+    "car-care/introduction",
     {
       "group": "Specific Endorsements",
       "pages": [
@@ -101,6 +101,7 @@
 },
   {
     "group": "Ride Smart",
+    "ride-smart/introduction",
     "pages": [
        {
       "group": "Written exams",
@@ -132,7 +133,7 @@
   {
     "group": "On the Road",
     "pages": [
-      "maintain/renew",
+      "on-the-road/introduction",
       "maintain/medical-exams",
       "maintain/dot-physical-exam",
       "maintain/upgrade"
