@@ -1,15 +1,21 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "analytics": {
+    "plausible": {
+        "domain": "driving-tests.org"
+                  }
+    },
+    "feedback.thumbsRating": true,
+  "name": "Driver's Academy | Driving-Tests.org",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "/logo/dt-small-fill.svg",
+    "light": "/logo/dt-small-fill.svg"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/dto-favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#007AFF",
+    "light": "#007AFF",
+    "dark": "#007AFF",
     "anchors": {
       "from": "#0D9373",
       "to": "#07C983"
@@ -17,62 +23,139 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Back to main site",
+      "url": "https://driving-tests.org"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Pass the first time",
+    "url": "https://driving-tests.org/premium/"
+  },
+  "primaryTab": {
+    "name": "Home"
   },
   "tabs": [
     {
-      "name": "API Reference",
-      "url": "api-reference"
+      "name": "How-to articles",
+      "url": "articles"
+    },
+    {
+      "name": "DMV practice tests",
+      "url": "https://driving-tests.org/dmv-practice-test/"
+    },
+    {
+      "name": "CDL manual",
+      "url": "https://driving-tests.org/cdl-handbooks/"
     }
   ],
-  "anchors": [
+ "navigation": [
+  {
+    "group": "Introduction to CDL",
+    "pages": [
+      "introduction",
+      {
+        "group": "Getting a CDL",
+        "pages": [
+          "cdl-definition",
+          "requirements-eligibility",
+          "application-process",
+          "study-materials",
+          "essentials/practice-tests"
+        ]
+      },
+      "fees-costs"
+    ]
+  },
+  {
+    "group": "CDL Types & Permits",
+    "pages": [
+      "cdl-types/classification",
+      {
+        "group": "Specific CDL Types",
+        "pages": [
+          "cdl-types/cdl-permit",
+          "cdl-types/class-a-cdl",
+          "cdl-types/class-b-cdl",
+          "cdl-types/class-c-cdl"
+        ]
+      }
+    ]
+  },
+
+  {
+  "group": "Endorsements & Restrictions",
+  "pages": [
+    "cdl-types/endorsements/introduction",
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
-    },
-    {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
-    }
-  ],
-  "navigation": [
-    {
-      "group": "Get Started",
-      "pages": ["introduction", "quickstart", "development"]
-    },
-    {
-      "group": "Essentials",
-      "pages": ["essentials/markdown", "essentials/code", "essentials/images", "essentials/settings", "essentials/navigation"]
-    },
-    {
-      "group": "API Documentation",
-      "pages": ["api-reference/introduction"]
-    },
-    {
-      "group": "Endpoint Examples",
+      "group": "Specific Endorsements",
       "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "cdl-types/endorsements/air-brakes",
+        "cdl-types/endorsements/hazmat",
+        "cdl-types/endorsements/passenger",
+        "cdl-types/endorsements/school-bus",
+        "cdl-types/endorsements/tanker",
+        "cdl-types/endorsements/doubles-triples"
       ]
     }
-  ],
+  ]
+},
+  {
+    "group": "CDL Exam Preparation",
+    "pages": [
+       {
+      "group": "Written exams",
+      "pages": [
+        "essentials/written-tests/overview",
+        "essentials/written-tests/general-knowledge",
+        "essentials/written-tests/air-brakes",
+        "essentials/written-tests/combination",
+        "essentials/written-tests/hazmat",
+        "essentials/written-tests/tankers",
+        "essentials/written-tests/doubles-triples",
+        "essentials/written-tests/passenger",
+        "essentials/written-tests/school-bus"
+        
+          ]
+        },
+
+        {
+        "group": "Practical exams",
+        "pages": [
+          "essentials/skills-test",
+          "essentials/pre-trip"
+        ]
+      },
+         "essentials/tsa-background-check",
+         "essentials/retake-policy"
+    ]
+  },
+  {
+    "group": "CDL Maintenance",
+    "pages": [
+      "maintain/renew",
+      "maintain/medical-exams",
+      "maintain/dot-physical-exam",
+      "maintain/upgrade"
+    ]
+  },
+  {
+    "group": "ELDT Training & Certification",
+    "pages": [
+      "eldt-certification/eldt-training",
+      "eldt-certification/eldt-certificate",
+      "eldt-certification/training-provider-registry"
+    ]
+  },
+  {
+      "group": "CDL how-to guides",
+      "pages": [
+        "articles/start",
+        "articles/become-owner-operator",
+        "articles/truck-owner-operator"
+      ]
+    }
+],
   "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "twitter": "https://twitter.com/driving_tests"
   }
 }
