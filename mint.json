@@ -50,79 +50,58 @@
   ],
  "navigation": [
   {
-    "group": "Introduction to CDL",
+    "group": "Start Driving",
     "pages": [
-      "introduction",
+      "start-driving/introduction",
       {
-        "group": "Getting a CDL",
+        "group": "Driving Basics",
         "pages": [
-          "cdl-definition",
-          "requirements-eligibility",
-          "application-process",
-          "study-materials",
-          "essentials/practice-tests"
+          "start-driving/driving-basics",
+          "start-driving/knowledge-test",
+          "start-driving/road-rules"
         ]
-      },
-      "fees-costs"
+      }
     ]
   },
   {
-    "group": "CDL Types & Permits",
+    "group": "Drive Better",
     "pages": [
-      "cdl-types/classification",
+      "drive-better/introduction",
       {
-        "group": "Specific CDL Types",
+        "group": "Safety Tips",
         "pages": [
-          "cdl-types/cdl-permit",
-          "cdl-types/class-a-cdl",
-          "cdl-types/class-b-cdl",
-          "cdl-types/class-c-cdl"
+          "drive-better/introduction"
         ]
       }
     ]
   },
 
   {
-  "group": "Endorsements & Restrictions",
+  "group": "Car Care",
   "pages": [
-    "cdl-types/endorsements/introduction",
+    "car-care/introduction",
     {
-      "group": "Specific Endorsements",
+      "group": "Routine Maintenance",
       "pages": [
-        "cdl-types/endorsements/air-brakes",
-        "cdl-types/endorsements/hazmat",
-        "cdl-types/endorsements/passenger",
-        "cdl-types/endorsements/school-bus",
-        "cdl-types/endorsements/tanker",
-        "cdl-types/endorsements/doubles-triples"
+        "car-care/introduction"
       ]
     }
   ]
 },
   {
-    "group": "CDL Exam Preparation",
+    "group": "On the Road",
     "pages": [
        {
-      "group": "Written exams",
+      "group": "Travel Guides",
       "pages": [
-        "essentials/written-tests/overview",
-        "essentials/written-tests/general-knowledge",
-        "essentials/written-tests/air-brakes",
-        "essentials/written-tests/combination",
-        "essentials/written-tests/hazmat",
-        "essentials/written-tests/tankers",
-        "essentials/written-tests/doubles-triples",
-        "essentials/written-tests/passenger",
-        "essentials/written-tests/school-bus"
-        
+        "on-the-road/introduction"
           ]
         },
 
         {
         "group": "Practical exams",
         "pages": [
-          "essentials/skills-test",
-          "essentials/pre-trip"
+          "on-the-road/introduction"
         ]
       },
          "essentials/tsa-background-check",
@@ -130,20 +109,15 @@
     ]
   },
   {
-    "group": "CDL Maintenance",
+    "group": "Car Buying Tips",
     "pages": [
-      "maintain/renew",
-      "maintain/medical-exams",
-      "maintain/dot-physical-exam",
-      "maintain/upgrade"
+      "on-the-road/introduction"
     ]
   },
   {
-    "group": "ELDT Training & Certification",
+    "group": "Lifestyle and Culture",
     "pages": [
-      "eldt-certification/eldt-training",
-      "eldt-certification/eldt-certificate",
-      "eldt-certification/training-provider-registry"
+      "on-the-road/introduction"
     ]
   },
   {
