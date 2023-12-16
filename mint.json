@@ -67,7 +67,7 @@
       "url": "motorcycle"
     }
   ],
-  
+
   "navigation": [
     {
       "group": "Get Started",
@@ -122,16 +122,6 @@
         "motorcycle/overview",
         "motorcycle/page1",
         "motorcycle/page2"
-      ]
-    },
-
-           {
-      "group": "Driver's Manuals",
-      "pages": [
-        "handbook-manual/overview",
-        "handbook-manual/car",
-        "handbook-manual/cdl",
-        "handbook-manual/motorcycle"
       ]
     }
 
