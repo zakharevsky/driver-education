@@ -50,6 +50,9 @@
   ],
  "navigation": [
   {
+    "group": "Get Started",
+    "pages": [
+      "introduction",
     "group": "Start Driving",
     "pages": [
       "start-driving/introduction",
@@ -66,7 +69,7 @@
         ]
       },
       {
-        "group": "Road Rules and Signage",
+        "group": "Road Rules",
         "pages": [
           "start-driving/road-rules/introduction"
         ]
