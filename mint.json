@@ -47,7 +47,7 @@
     },
     {
         "name": "DMV Finder",
-        "icon": "location-check",
+        "icon": "envelope",
         "url": "https://driving-tests.org/dmv-near-me/"
     }
 ],
@@ -65,23 +65,9 @@
          {
       "name": "Motorcycle",
       "url": "motorcycle"
-    },
-
-             {
-      "name": "Driver's Handbook",
-      "url": "handbook-manual"
-    },
-
-    {
-      "name": "DMV practice tests",
-      "url": "https://driving-tests.org/dmv-practice-test/"
-    },
-
-    {
-      "name": "DMV near me",
-      "url": "https://driving-tests.org/dmv-near-me/"
     }
   ],
+  
   "navigation": [
     {
       "group": "Get Started",
