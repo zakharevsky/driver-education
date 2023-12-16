@@ -34,12 +34,12 @@
     "url": "https://driving-tests.org/premium/"
   },
   "primaryTab": {
-    "name": "Car"
+    "name": "Passenger Car"
   },
   "tabs": [
 
      {
-      "name": "CDL",
+      "name": "Commercial Vehicles",
       "url": "cdl"
     },
 
