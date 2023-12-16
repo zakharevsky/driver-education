@@ -37,6 +37,12 @@
     "name": "Car"
   },
   "tabs": [
+
+     {
+      "name": "CDL",
+      "url": "cdl"
+    },
+
     {
       "name": "DMV practice tests",
       "url": "https://driving-tests.org/dmv-practice-test/"
@@ -88,7 +94,17 @@
         "on-the-road/car-buying-tips",
         "on-the-road/lifestyle-culture"
       ]
+    },
+
+   {
+      "group": "Commercial Driving",
+      "pages": [
+        "cdl/start",
+        "cdl/become-owner-operator",
+        "cdl/truck-owner-operator"
+      ]
     }
+
   ],
   "footerSocials": {
     "twitter": "https://twitter.com/driving_tests"
