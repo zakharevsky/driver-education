@@ -56,6 +56,15 @@
     ]
   },
   {
+    "group": "Start Driving",
+    "pages": [
+      "start-driving/introduction",
+      "start-driving/knowledge-test",
+      "start-driving/driving-basics",
+      "start-driving/road-rules"
+    ]
+  },
+  {
     "group": "Drive Better",
     "pages": [
       "drive-better/introduction",
