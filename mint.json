@@ -56,9 +56,19 @@
       {
         "group": "Driving Basics",
         "pages": [
-          "start-driving/driving-basics",
-          "start-driving/knowledge-test",
-          "start-driving/road-rules"
+          "start-driving/driving-basics/introduction"
+        ]
+      },
+      {
+        "group": "Knowledge Test Prep",
+        "pages": [
+          "start-driving/knowledge-test/introduction"
+        ]
+      },
+      {
+        "group": "Road Rules and Signage",
+        "pages": [
+          "start-driving/road-rules/introduction"
         ]
       }
     ]
