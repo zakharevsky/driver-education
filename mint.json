@@ -43,6 +43,11 @@
       "url": "cdl"
     },
 
+         {
+      "name": "Motorcycles",
+      "url": "motorcycle"
+    },
+
     {
       "name": "DMV practice tests",
       "url": "https://driving-tests.org/dmv-practice-test/"
@@ -102,6 +107,15 @@
         "cdl/start",
         "cdl/become-owner-operator",
         "cdl/truck-owner-operator"
+      ]
+    },
+
+       {
+      "group": "Motorcycle Riding",
+      "pages": [
+        "motorcycle/overview",
+        "motorcycle/page1",
+        "motorcycle/page2"
       ]
     }
 
