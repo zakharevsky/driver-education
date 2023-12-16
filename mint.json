@@ -39,13 +39,18 @@
   "tabs": [
 
      {
-      "name": "Commercial Vehicles",
+      "name": "Commercial Vehicle",
       "url": "cdl"
     },
 
          {
-      "name": "Motorcycles",
+      "name": "Motorcycle",
       "url": "motorcycle"
+    },
+
+             {
+      "name": "Driver's Handbook",
+      "url": "handbook-manual"
     },
 
     {
@@ -53,10 +58,6 @@
       "url": "https://driving-tests.org/dmv-practice-test/"
     },
 
-    {
-      "name": "DMV handbook",
-      "url": "https://driving-tests.org/dmv-handbook-drivers-manual/"
-    },
     {
       "name": "DMV near me",
       "url": "https://driving-tests.org/dmv-near-me/"
@@ -117,7 +118,18 @@
         "motorcycle/page1",
         "motorcycle/page2"
       ]
+    },
+
+           {
+      "group": "Driver's Manuals",
+      "pages": [
+        "handbook-manual/overview",
+        "handbook-manual/car",
+        "handbook-manual/cdl",
+        "handbook-manual/motorcycle"
+      ]
     }
+
 
   ],
   "footerSocials": {
