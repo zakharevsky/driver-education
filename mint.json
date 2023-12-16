@@ -33,6 +33,25 @@
     "name": "Pass the first time",
     "url": "https://driving-tests.org/premium/"
   },
+
+"anchors": [
+    {
+        "name": "DMV Near Me",
+        "icon": "code",
+        "url": "https://driving-tests.org/dmv-near-me/"
+    },
+    {
+        "name": "Driver's Manual",
+        "icon": "pencil",
+        "url": "https://driving-tests.org/"
+    },
+    {
+        "name": "Free practice tests",
+        "icon": "envelope",
+        "url": "https://driving-tests.org/dmv-near-me/"
+    }
+]
+
   "primaryTab": {
     "name": "Passenger Car"
   },
