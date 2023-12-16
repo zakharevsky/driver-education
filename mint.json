@@ -59,12 +59,9 @@
     "group": "Drive Better",
     "pages": [
       "drive-better/introduction",
-      {
-        "group": "Safety Tips",
-        "pages": [
-          "drive-better/introduction"
-        ]
-      }
+      "drive-better/safety-tips",
+      "drive-better/advanced-maneuvres",
+      "drive-better/eco-friendly-driving"
     ]
   },
 
@@ -72,6 +69,12 @@
   "group": "Car Care",
   "pages": [
     "car-care/introduction",
+    {
+      "group": "Routine Maintenance",
+      "pages": [
+        "car-care/introduction"
+      ]
+    },
     {
       "group": "Routine Maintenance",
       "pages": [
