@@ -80,7 +80,8 @@
       "pages": [
         "start-driving/knowledge-test",
         "start-driving/driving-basics",
-        "start-driving/road-rules"
+        "start-driving/road-rules",
+        "start-driving/traffic-signs"
       ]
     },
     {
@@ -88,6 +89,7 @@
       "pages": [
         "drive-better/safety-tips",
         "drive-better/advanced-maneuvers",
+        "drive-better/tech-navigation",
         "drive-better/eco-friendly-driving"
       ]
     },
