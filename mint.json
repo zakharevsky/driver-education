@@ -2,10 +2,12 @@
   "$schema": "https://mintlify.com/schema.json",
   "analytics": {
     "plausible": {
-        "domain": "driving-tests.org"
-                  }
-    },
-    "feedback.thumbsRating": true,
+      "domain": "driving-tests.org"
+    }
+  },
+  "feedback": {
+    "thumbsRating": true
+  },
   "name": "Driver's Academy | Driving-Tests.org",
   "logo": {
     "dark": "/logo/dt-small-fill.svg",
@@ -48,78 +50,45 @@
       "url": "https://driving-tests.org/cdl-handbooks/"
     }
   ],
- "navigation": [
-  {
-    "group": "Get Started",
-    "pages": [
-      "introduction"
-    ]
-  },
-  {
-    "group": "Start Driving",
-    "pages": [
-      "start-driving/knowledge-test",
-      "start-driving/driving-basics",
-      "start-driving/road-rules"
-    ]
-  },
-  {
-    "group": "Drive Better",
-    "pages": [
-      "drive-better/safety-tips",
-      "drive-better/advanced-maneuvres",
-      "drive-better/eco-friendly-driving"
-    ]
-  },
-
-{
-    "group": "Car Care",
-    "pages": [
-      "car-care/routine-maintenance",
-      "car-care/diy-repairs"
-    ]
-  },
-  {
-    "group": "On the Road",
-    "pages": [
-       {
-      "group": "Travel Guides",
+  "navigation": [
+    {
+      "group": "Get Started",
       "pages": [
-        "on-the-road/introduction"
-          ]
-        },
-
-        {
-        "group": "Practical exams",
-        "pages": [
-          "on-the-road/introduction"
-        ]
-      },
-         "essentials/tsa-background-check",
-         "essentials/retake-policy"
-    ]
-  },
-  {
-    "group": "Car Buying Tips",
-    "pages": [
-      "on-the-road/introduction"
-    ]
-  },
-  {
-    "group": "Lifestyle and Culture",
-    "pages": [
-      "on-the-road/introduction"
-    ]
-  },
-  {
-      "group": "CDL how-to guides",
+        "introduction"
+      ]
+    },
+    {
+      "group": "Start Driving",
       "pages": [
-        "articles/start",
-        "articles/become-owner-operator",
-        "articles/truck-owner-operator"
+        "start-driving/knowledge-test",
+        "start-driving/driving-basics",
+        "start-driving/road-rules"
+      ]
+    },
+    {
+      "group": "Drive Better",
+      "pages": [
+        "drive-better/safety-tips",
+        "drive-better/advanced-maneuvres",
+        "drive-better/eco-friendly-driving"
+      ]
+    },
+    {
+      "group": "Car Care",
+      "pages": [
+        "car-care/routine-maintenance",
+        "car-care/diy-repairs"
+      ]
+    },
+    {
+      "group": "On The Road",
+      "pages": [
+        "on-the-road/travel-guides",
+        "on-the-road/car-buying-tips",
+        "on-the-road/lifestyle-culture"
       ]
     }
-],
+  ],
   "footerSocials": {
     "twitter": "https://twitter.com/driving_tests"
   }
