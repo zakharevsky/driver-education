@@ -52,28 +52,7 @@
   {
     "group": "Get Started",
     "pages": [
-      "introduction",
-    "group": "Start Driving",
-    "pages": [
-      "start-driving/introduction",
-      {
-        "group": "Driving Basics",
-        "pages": [
-          "start-driving/driving-basics/introduction"
-        ]
-      },
-      {
-        "group": "Knowledge Test Prep",
-        "pages": [
-          "start-driving/knowledge-test/introduction"
-        ]
-      },
-      {
-        "group": "Road Rules",
-        "pages": [
-          "start-driving/road-rules/introduction"
-        ]
-      }
+      "introduction"
     ]
   },
   {
