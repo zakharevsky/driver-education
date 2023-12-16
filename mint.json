@@ -72,24 +72,13 @@
     ]
   },
 
-  {
-  "group": "Car Care",
-  "pages": [
-    "car-care/introduction",
-    {
-      "group": "Routine Maintenance",
-      "pages": [
-        "car-care/introduction"
-      ]
-    },
-    {
-      "group": "Routine Maintenance",
-      "pages": [
-        "car-care/introduction"
-      ]
-    }
-  ]
-},
+{
+    "group": "Car Care",
+    "pages": [
+      "car-care/routine-maintenance",
+      "car-care/diy-repairs"
+    ]
+  },
   {
     "group": "On the Road",
     "pages": [
