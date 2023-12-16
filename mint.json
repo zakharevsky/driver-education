@@ -36,18 +36,18 @@
 
 "anchors": [
     {
-        "name": "DMV Near Me",
-        "icon": "code",
-        "url": "https://driving-tests.org/dmv-near-me/"
-    },
-    {
-        "name": "Driver's Manual",
-        "icon": "pencil",
+        "name": "Free Practice Tests",
+        "icon": "list-check",
         "url": "https://driving-tests.org/"
     },
     {
-        "name": "Free practice tests",
-        "icon": "envelope",
+        "name": "Driver's Manuals",
+        "icon": "books",
+        "url": "https://driving-tests.org/dmv-handbook-drivers-manual/"
+    },
+    {
+        "name": "DMV Finder",
+        "icon": "location-check",
         "url": "https://driving-tests.org/dmv-near-me/"
     }
 ],
