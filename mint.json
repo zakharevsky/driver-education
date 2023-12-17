@@ -25,7 +25,7 @@
   },
   "topbarLinks": [
     {
-      "name": "Back to main site",
+      "name": "Explore Driving-Tests",
       "url": "https://driving-tests.org"
     }
   ],
@@ -47,7 +47,7 @@
     },
     {
         "name": "DMV Finder",
-        "icon": "envelope",
+        "icon": "circle-location-arrow",
         "url": "https://driving-tests.org/dmv-near-me/"
     }
 ],
