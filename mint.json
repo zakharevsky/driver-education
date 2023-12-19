@@ -123,6 +123,112 @@
       "group": "Commercial Driving",
       "pages": [
         "cdl/start",
+        {
+    "group": "Introduction to CDL",
+    "pages": [
+      "introduction",
+      {
+        "group": "Getting a CDL",
+        "pages": [
+          "cdl-definition",
+          "requirements-eligibility",
+          "application-process",
+          "study-materials",
+          "essentials/practice-tests"
+        ]
+      },
+      "fees-costs"
+    ]
+  },
+  {
+    "group": "CDL Types & Permits",
+    "pages": [
+      "cdl-types/classification",
+      {
+        "group": "Specific CDL Types",
+        "pages": [
+          "cdl-types/cdl-permit",
+          "cdl-types/class-a-cdl",
+          "cdl-types/class-b-cdl",
+          "cdl-types/class-c-cdl"
+        ]
+      }
+    ]
+  },
+
+  {
+  "group": "Endorsements & Restrictions",
+  "pages": [
+    "cdl-types/endorsements/introduction",
+    {
+      "group": "Specific Endorsements",
+      "pages": [
+        "cdl-types/endorsements/air-brakes",
+        "cdl-types/endorsements/hazmat",
+        "cdl-types/endorsements/passenger",
+        "cdl-types/endorsements/school-bus",
+        "cdl-types/endorsements/tanker",
+        "cdl-types/endorsements/doubles-triples"
+      ]
+    }
+  ]
+},
+  {
+    "group": "CDL Exam Preparation",
+    "pages": [
+       {
+      "group": "Written exams",
+      "pages": [
+        "essentials/written-tests/overview",
+        "essentials/written-tests/general-knowledge",
+        "essentials/written-tests/air-brakes",
+        "essentials/written-tests/combination",
+        "essentials/written-tests/hazmat",
+        "essentials/written-tests/tankers",
+        "essentials/written-tests/doubles-triples",
+        "essentials/written-tests/passenger",
+        "essentials/written-tests/school-bus"
+        
+          ]
+        },
+
+        {
+        "group": "Practical exams",
+        "pages": [
+          "essentials/skills-test",
+          "essentials/pre-trip"
+        ]
+      },
+         "essentials/tsa-background-check",
+         "essentials/retake-policy"
+    ]
+  },
+  {
+    "group": "CDL Maintenance",
+    "pages": [
+      "maintain/renew",
+      "maintain/medical-exams",
+      "maintain/dot-physical-exam",
+      "maintain/upgrade"
+    ]
+  },
+  {
+    "group": "ELDT Training & Certification",
+    "pages": [
+      "eldt-certification/eldt-training",
+      "eldt-certification/eldt-certificate",
+      "eldt-certification/training-provider-registry"
+    ]
+  },
+  {
+      "group": "CDL how-to guides",
+      "pages": [
+        "articles/start",
+        "articles/become-owner-operator",
+        "articles/truck-owner-operator"
+      ]
+    }
+
         "cdl/become-owner-operator",
         "cdl/truck-owner-operator"
       ]
