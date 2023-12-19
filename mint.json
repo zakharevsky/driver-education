@@ -122,7 +122,6 @@
    {
       "group": "Commercial Driving",
       "pages": [
-        "cdl/start",
   {
         "group": "Getting a CDL",
         "pages": [
@@ -140,10 +139,10 @@
       {
         "group": "Specific CDL Types",
         "pages": [
-          "cdl-types/cdl-permit",
-          "cdl-types/class-a-cdl",
-          "cdl-types/class-b-cdl",
-          "cdl-types/class-c-cdl"
+          "cdl/cdl-types/cdl-permit",
+          "cdl/cdl-types/class-a-cdl",
+          "cdl/cdl-types/class-b-cdl",
+          "cdl/cdl-types/class-c-cdl"
         ]
       }
     ]
@@ -152,16 +151,16 @@
   {
   "group": "Endorsements & Restrictions",
   "pages": [
-    "cdl-types/endorsements/introduction",
+    "cdl/cdl-types/endorsements/introduction",
     {
       "group": "Specific Endorsements",
       "pages": [
-        "cdl-types/endorsements/air-brakes",
-        "cdl-types/endorsements/hazmat",
-        "cdl-types/endorsements/passenger",
-        "cdl-types/endorsements/school-bus",
-        "cdl-types/endorsements/tanker",
-        "cdl-types/endorsements/doubles-triples"
+        "cdl/cdl-types/endorsements/air-brakes",
+        "cdl/cdl-types/endorsements/hazmat",
+        "cdl/cdl-types/endorsements/passenger",
+        "cdl/cdl-types/endorsements/school-bus",
+        "cdl/cdl-types/endorsements/tanker",
+        "cdl/cdl-types/endorsements/doubles-triples"
       ]
     }
   ]
@@ -172,15 +171,15 @@
        {
       "group": "Written exams",
       "pages": [
-        "essentials/written-tests/overview",
-        "essentials/written-tests/general-knowledge",
-        "essentials/written-tests/air-brakes",
-        "essentials/written-tests/combination",
-        "essentials/written-tests/hazmat",
-        "essentials/written-tests/tankers",
-        "essentials/written-tests/doubles-triples",
-        "essentials/written-tests/passenger",
-        "essentials/written-tests/school-bus"
+        "cdl/essentials/written-tests/overview",
+        "cdl/essentials/written-tests/general-knowledge",
+        "cdl/essentials/written-tests/air-brakes",
+        "cdl/essentials/written-tests/combination",
+        "cdl/essentials/written-tests/hazmat",
+        "cdl/essentials/written-tests/tankers",
+        "cdl/essentials/written-tests/doubles-triples",
+        "cdl/essentials/written-tests/passenger",
+        "cdl/essentials/written-tests/school-bus"
         
           ]
         },
@@ -188,37 +187,37 @@
         {
         "group": "Practical exams",
         "pages": [
-          "essentials/skills-test",
-          "essentials/pre-trip"
+          "cdl/essentials/skills-test",
+          "cdl/essentials/pre-trip"
         ]
       },
-         "essentials/tsa-background-check",
-         "essentials/retake-policy"
+         "cdl/essentials/tsa-background-check",
+         "cdl/essentials/retake-policy"
     ]
   },
   {
     "group": "CDL Maintenance",
     "pages": [
-      "maintain/renew",
-      "maintain/medical-exams",
-      "maintain/dot-physical-exam",
-      "maintain/upgrade"
+      "cdl/maintain/renew",
+      "cdl/maintain/medical-exams",
+      "cdl/maintain/dot-physical-exam",
+      "cdl/maintain/upgrade"
     ]
   },
   {
     "group": "ELDT Training & Certification",
     "pages": [
-      "eldt-certification/eldt-training",
-      "eldt-certification/eldt-certificate",
-      "eldt-certification/training-provider-registry"
+      "cdl/eldt-certification/eldt-training",
+      "cdl/eldt-certification/eldt-certificate",
+      "cdl/eldt-certification/training-provider-registry"
     ]
   },
   {
       "group": "CDL how-to guides",
       "pages": [
-        "articles/start",
-        "articles/become-owner-operator",
-        "articles/truck-owner-operator"
+        "cdl/articles/start",
+        "cdl/articles/become-owner-operator",
+        "cdl/articles/truck-owner-operator"
       ]
     },
 
