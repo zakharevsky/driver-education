@@ -123,11 +123,7 @@
       "group": "Commercial Driving",
       "pages": [
         "cdl/start",
-        {
-    "group": "Introduction to CDL",
-    "pages": [
-      "cdl/start",
-      {
+  {
         "group": "Getting a CDL",
         "pages": [
           "cdl/cdl-definition",
@@ -136,9 +132,6 @@
           "cdl/study-materials",
           "cdl/essentials/practice-tests"
         ]
-      },
-      "fees-costs"
-    ]
   },
   {
     "group": "CDL Types & Permits",
