@@ -120,6 +120,7 @@
   {
         "group": "Getting a CDL",
         "pages": [
+          "cdl/introduction",
           "cdl/cdl-definition",
           "cdl/requirements-eligibility",
           "cdl/application-process",
