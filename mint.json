@@ -123,12 +123,8 @@
       "group": "Commercial Driving",
       "pages": [
         "cdl/start",
-        "cdl/become-owner-operator",
-        "cdl/truck-owner-operator"
-      ]
-    },
 
-    {
+        {
             "group": "Introduction to CDL",
             "pages": [
                 "introduction",
@@ -145,6 +141,11 @@
                 "fees-costs"
             ]
         },
+
+        "cdl/become-owner-operator",
+        "cdl/truck-owner-operator"
+      ]
+    },
 
        {
       "group": "Motorcycle Riding",
