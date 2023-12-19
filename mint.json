@@ -123,25 +123,6 @@
       "group": "Commercial Driving",
       "pages": [
         "cdl/start",
-
-        {
-            "group": "Introduction to CDL",
-            "pages": [
-                "introduction",
-                {
-                    "group": "Getting a CDL",
-                    "pages": [
-                        "cdl-definition",
-                        "requirements-eligibility",
-                        "application-process",
-                        "study-materials",
-                        "essentials/practice-tests"
-                    ]
-                },
-                "fees-costs"
-            ]
-        },
-
         "cdl/become-owner-operator",
         "cdl/truck-owner-operator"
       ]
