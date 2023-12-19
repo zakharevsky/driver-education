@@ -41,11 +41,6 @@
         "url": "https://driving-tests.org/"
     },
     {
-        "name": "Driver's Manuals",
-        "icon": "books",
-        "url": "https://driving-tests.org/dmv-handbook-drivers-manual/"
-    },
-    {
         "name": "DMV Finder",
         "icon": "circle-location-arrow",
         "url": "https://driving-tests.org/dmv-near-me/"
@@ -219,10 +214,7 @@
         "cdl/articles/become-owner-operator",
         "cdl/articles/truck-owner-operator"
       ]
-    },
-
-        "cdl/become-owner-operator",
-        "cdl/truck-owner-operator"
+    }
       ]
     },
 
