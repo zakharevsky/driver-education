@@ -126,15 +126,15 @@
         {
     "group": "Introduction to CDL",
     "pages": [
-      "introduction",
+      "cdl/start",
       {
         "group": "Getting a CDL",
         "pages": [
-          "cdl-definition",
-          "requirements-eligibility",
-          "application-process",
-          "study-materials",
-          "essentials/practice-tests"
+          "cdl/cdl-definition",
+          "cdl/requirements-eligibility",
+          "cdl/application-process",
+          "cdl/study-materials",
+          "cdl/essentials/practice-tests"
         ]
       },
       "fees-costs"
