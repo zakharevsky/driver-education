@@ -102,7 +102,17 @@
     {
       "group": "Car Care",
       "pages": [
-        "car-care/routine-maintenance",
+        {
+        "group": "Routine maintenance",
+        "pages": [
+          "car-care/introduction",
+          "car-care/routine-maintenance",
+          "car-care/body-paint-maintenance",
+          "car-care/doors-lock-maintenance",
+          "car-care/tire-maintenance",
+          "car-care/windshield-and-wiper-maintenance"
+        ]
+      },
         "car-care/diy-repairs"
       ]
     },
