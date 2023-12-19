@@ -130,7 +130,7 @@
   {
     "group": "CDL Types & Permits",
     "pages": [
-      "cdl-types/classification",
+      "cdl/cdl-types/classification",
       {
         "group": "Specific CDL Types",
         "pages": [
