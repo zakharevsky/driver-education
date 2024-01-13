@@ -105,7 +105,8 @@
       "group": "Car Care",
       "pages": [
         {
-        "group": "Routine maintenance",
+        "group": 
+        "Routine maintenance",
         "pages": [
           "car-care/routine-maintenance",
           "car-care/body-paint-maintenance",
@@ -115,6 +116,7 @@
           "car-care/windshield-and-wiper-maintenance"
         ]
       },
+        "car-care/how-to-jump-start-car",
         "car-care/diy-repairs"
       ]
     },
