@@ -123,18 +123,7 @@
     },
     {
       "group": "On The Road",
-      "pages": 
-      [
-        {
-        "group": 
-        "How-to",
-        "pages": [
-          "how-to/uber-driver-requirements"
-        ]
-      }
-      ]
-    },
-      [
+      "pages": [
         {
         "group": 
         "Travel guides",
