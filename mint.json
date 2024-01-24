@@ -117,10 +117,25 @@
           "car-care/windshield-and-wiper-maintenance"
         ]
       },
-        "car-care/how-to-jump-start-car",
         "car-care/diy-repairs"
       ]
     },
+
+    {
+      "group": "How-To's",
+      "pages": [
+        {
+        "group": 
+        "Driving tips and tricks",
+        "pages": [
+          "car-care/how-to-jump-start-car",
+          "how-to/uber-driver-requirements"
+        ]
+      }
+      ]
+    },
+
+
     {
       "group": "On The Road",
       "pages": [
