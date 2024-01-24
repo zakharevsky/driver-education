@@ -129,6 +129,7 @@
         "Driving tips and tricks",
         "pages": [
           "car-care/how-to-jump-start-car",
+          "on-the-road/hydroplaning-explained",
           "how-to/uber-driver-requirements"
         ]
       }
@@ -143,12 +144,9 @@
         "group": 
         "Travel guides",
         "pages": [
-          "on-the-road/international-drivers-license-permit",
-          "how-to/uber-driver-requirements"
+          "on-the-road/international-drivers-license-permit"
         ]
-      },
-        "on-the-road/hydroplaning-explained",
-        "on-the-road/lifestyle-culture"
+      }
       ]
     },
 
