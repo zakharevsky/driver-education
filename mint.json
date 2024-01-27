@@ -96,10 +96,15 @@
       "group": "Drive Better",
       "pages": [
         "drive-better/safety-tips",
-        "drive-better/advanced-maneuvers",
-        "drive-better/tech-navigation",
-        "drive-better/cruise-control",
-        "drive-better/eco-friendly-driving"
+        {
+        "group": "Emergency Procedures and Tips",
+        "pages": [
+          "drive-better/advanced-maneuvers",
+          "drive-better/tech-navigation",
+          "drive-better/cruise-control",
+          "drive-better/eco-friendly-driving"
+        ]
+      }
       ]
     },
     {
