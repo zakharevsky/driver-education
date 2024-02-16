@@ -118,6 +118,7 @@
           "car-care/routine-maintenance",
           "car-care/body-paint-maintenance",
           "car-care/how-to-wax-your-car",
+          "car-care/how-to-jump-start-car",
           "car-care/doors-locks-maintenance",
           "car-care/tire-maintenance",
           "car-care/windshield-and-wiper-maintenance"
@@ -127,30 +128,11 @@
       ]
     },
 
-    {
-      "group": "How-To's",
-      "pages": [
-        {
-        "group": 
-        "Driving tips and tricks",
-        "pages": [
-          "car-care/how-to-jump-start-car"
-        ]
-      }
-      ]
-    },
-
 
     {
       "group": "On The Road",
       "pages": [
-        {
-        "group": 
-        "Travel guides",
-        "pages": [
-          "on-the-road/international-drivers-license-permit"
-        ]
-      }
+        "on-the-road/international-drivers-license-permit"
       ]
     },
 
@@ -258,7 +240,7 @@
     }
       ]
     },
-       {
+    {
       "group": "Driving Tips & Tricks",
       "pages": [
         "how-to/how-to-back-into-parking-space",
