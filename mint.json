@@ -132,7 +132,8 @@
     {
       "group": "On The Road",
       "pages": [
-        "on-the-road/international-drivers-license-permit"
+        "on-the-road/international-drivers-license-permit",
+        "on-the-road/hydroplaning-explained"
       ]
     },
 
@@ -250,7 +251,6 @@
         "how-to/how-to-use-car-wash",
         "how-to/how-to-refill-windshield-washer-fluid",
         "how-to/how-to-use-a-toll-road",
-        "on-the-road/hydroplaning-explained",
         "how-to/uber-driver-requirements"
       ]
     }
