@@ -269,11 +269,11 @@
     },
 
        {
-      "group": "Motorcycle Riding",
+      "group": "Driving Tips & Tricks",
       "pages": [
-        "motorcycle/overview",
-        "motorcycle/page1",
-        "motorcycle/page2"
+        "how-to/overview",
+        "how-to/page1",
+        "how-to/page2"
       ]
     }
   ],
