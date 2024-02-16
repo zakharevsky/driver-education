@@ -257,8 +257,9 @@
       ]
     }
       ]
-    },
-
+    }
+  ]
+}
        {
       "group": "Driving Tips & Tricks",
       "pages": [
@@ -268,7 +269,10 @@
         "how-to/how-to-park-on-a-hill-safely",
         "how-to/how-to-use-car-wash",
         "how-to/how-to-refill-windshield-washer-fluid",
+        "how-to/how-to-back-into-parking-space",
+        "how-to/how-to-install-license-plate",
         "how-to/how-to-use-a-toll-road",
+        "how-to/how-to-make-a-u-turn",
         "on-the-road/hydroplaning-explained",
         "how-to/uber-driver-requirements"
       ]
