@@ -68,7 +68,8 @@
     {
       "group": "Get Started",
       "pages": [
-        "introduction"
+        "introduction",
+        "drivers-license"
       ]
     },
     {
