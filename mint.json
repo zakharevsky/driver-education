@@ -109,6 +109,21 @@
           "drive-better/cruise-control",
           "drive-better/eco-friendly-driving"
         ]
+      },
+      {
+        "group": "License renewal",
+        "pages": [
+          "renew/alaska",
+          "renew/delaware",
+          "renew/district-columbia",
+          "renew/florida",
+          "renew/hawaii",
+          "renew/iowa",
+          "renew/pennsylvania",
+          "renew/rhode-island",
+          "renew/north-dakota",
+          "renew/maryland"
+        ]
       }
       ]
     },
