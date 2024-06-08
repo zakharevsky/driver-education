@@ -13,8 +13,8 @@
   },
   "name": "Driving Academy | Driving-Tests.org",
   "logo": {
-    "dark": "/logo/dt-small-fill.svg",
-    "light": "/logo/dt-small-fill.svg"
+    "dark": "/dt-small-fill.svg",
+    "light": "/dt-small-fill.svg"
   },
   "favicon": "/dto-favicon.svg",
   "isWhiteLabeled": true,
