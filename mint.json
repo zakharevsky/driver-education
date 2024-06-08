@@ -5,6 +5,9 @@
       "domain": "driving-tests.org"
     }
   },
+"seo": {
+    "indexHiddenPages": true
+  },
   "feedback": {
     "thumbsRating": true
   },
