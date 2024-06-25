@@ -8,6 +8,7 @@
 "seo": {
     "indexHiddenPages": true
   },
+  "theme": "quill",
   "feedback": {
     "thumbsRating": true
   },
