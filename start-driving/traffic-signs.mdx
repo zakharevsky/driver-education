@@ -7,6 +7,47 @@ sidebarTitle: "Traffic signs"
 <Snippet file="andrei.mdx" />
 Road signs are vital for safe driving, providing information about the road ahead, guiding traffic flow, and ensuring the safety of all road users. This guide introduces the basics of road signs. For a more comprehensive understanding of road signs, including detailed definitions, shapes, and colors, be sure to visit our [Road Sign Encyclopedia](https://driving-tests.org/road-signs/).
 
+## Approaching an Intersection [Interactive Flowchart]
+This diagram illustrates the decision-making process for approaching an intersection. It will help you understand the steps and considerations you need to make when encountering different types of intersections.
+
+```mermaid
+graph TD
+    A[Approaching Intersection] --> B{Traffic Light?}
+    B -->|Yes| C{Light Color?}
+    B -->|No| D{Stop Sign?}
+    
+    C -->|Green| E[Proceed with caution]
+    C -->|Yellow| F{Safe to stop?}
+    C -->|Red| G[Stop behind the line]
+    
+    F -->|Yes| H[Stop safely]
+    F -->|No| I[Proceed with extreme caution]
+    
+    D -->|Yes| J[Come to a full stop]
+    D -->|No| K{Yield Sign?}
+    
+    J --> L{Other vehicles present?}
+    L -->|Yes| M[Wait for right of way]
+    L -->|No| N[Proceed after full stop]
+    
+    K -->|Yes| O[Slow down and prepare to yield]
+    K -->|No| P[Uncontrolled intersection]
+    
+    O --> Q{Oncoming traffic?}
+    Q -->|Yes| R[Yield to oncoming traffic]
+    Q -->|No| S[Proceed with caution]
+    
+    P --> T{Vehicle on the right?}
+    T -->|Yes| U[Yield to vehicle on right]
+    T -->|No| V[Proceed with caution]
+    
+    E --> W[Check for pedestrians and turning vehicles]
+    G --> X[Wait for green light]
+    M --> Y[Follow right-of-way rules]
+    R --> Z[Wait for safe gap in traffic]
+```
+
+
 ## Regulatory Signs
 
 These signs instruct drivers on what they must or must not do.
