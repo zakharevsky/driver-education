@@ -1,16 +1,307 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
-  "name": "Documentation",
-  "colors": {
-    "primary": "#0D9373"
+  ,  "analytics": {
+    "plausible": {
+      "domain": "driving-tests.org"
+    }
   },
-  "navigation": {
-    "groups": [
+"seo": {
+    "indexHiddenPages": true
+  },
+  "theme": "mint",
+    "feedback": {
+    "thumbsRating": true
+  },
+  "name": "Driving-Tests.org",
+  "logo": {
+    "dark": "/dt-small-fill.svg",
+    "light": "/dt-small-fill.svg"
+  },
+  "favicon": "/dto-favicon.svg",
+  "isWhiteLabeled": true,
+  "colors": {
+    "primary": "#007AFF",
+    "light": "#007AFF",
+    "dark": "#007AFF",
+    "anchors": {
+      "from": "#0D9373",
+      "to": "#07C983"
+    }
+  },
+  "topbarLinks": [
+    {
+      "name": "Explore Driving-Tests",
+      "url": "https://driving-tests.org"
+    }
+  ],
+  "topbarCtaButton": {
+    "name": "Pass the first time",
+    "url": "https://driving-tests.org/premium/"
+  },
+
+"anchors": [
+    {
+        "name": "Free Practice Tests",
+        "icon": "list-check",
+        "url": "https://driving-tests.org/"
+    },
+    {
+        "name": "DMV Finder",
+        "icon": "circle-location-arrow",
+        "url": "https://driving-tests.org/dmv-near-me/"
+    }
+],
+
+  "primaryTab": {
+    "name": "Passenger Car"
+  },
+  "tabs": [
+
+     {
+      "name": "Commercial Vehicle",
+      "url": "cdl"
+    },
+
+         {
+      "name": "Tips and Tricks",
+      "url": "how-to"
+    }
+  ],
+
+  "navigation": [
+    {
+      "group": "Get Started",
+      "pages": [
+        "drivers-license"
+        
+      ]
+    },
+    {
+      "group": "Start Driving",
+      "pages": [
+        "start-driving/knowledge-test",
+        "start-driving/permit-test-questions",
+              {
+        "group": "Driving basics",
+        "pages": [
+          "start-driving/overview",
+          "start-driving/understanding-your-car",
+          "start-driving/driving-basics/understanding-your-car",
+          "start-driving/driving-basics/car-controls",
+          "start-driving/driving-basics/car-lights",
+          "start-driving/driving-basics/bumpers",
+          "start-driving/driving-basics/exhaust-system",
+          "start-driving/driving-basics/hand-signals-driving"
+        ]
+      },
+        "start-driving/road-rules",
+        "start-driving/traffic-signs"
+      ]
+    },
+    {
+      "group": "Drive Better",
+      "pages": [
+        "drive-better/safety-tips",
+        {
+        "group": "Emergency procedures & tips",
+        "pages": [
+          "drive-better/advanced-maneuvers",
+          "drive-better/tech-navigation",
+          "drive-better/eco-friendly-driving"
+        ]
+      },
       {
-        "group": "Getting Started",
-        "pages": ["introduction"]
+        "group": "License renewal",
+        "pages": [
+          "renew/alabama",
+          "renew/alaska",
+          "renew/arizona",
+          "renew/arkansas",
+          "renew/california",
+          "renew/colorado",
+          "renew/connecticut",
+          "renew/delaware",
+          "renew/district-columbia",
+          "renew/florida",
+          "renew/georgia",
+          "renew/hawaii",
+          "renew/idaho",
+          "renew/illinois",
+          "renew/indiana",
+          "renew/iowa",
+          "renew/kansas",
+          "renew/kentucky",
+          "renew/louisiana",
+          "renew/maine",
+          "renew/maryland",
+          "renew/massachusetts",
+          "renew/michigan",
+          "renew/minnesota",
+          "renew/mississippi",
+          "renew/missouri",
+          "renew/montana",
+          "renew/nebraska",
+          "renew/nevada",
+          "renew/new-hampshire",
+          "renew/new-jersey",
+          "renew/new-mexico",
+          "renew/new-york",
+          "renew/north-carolina",
+          "renew/north-dakota",
+          "renew/ohio",
+          "renew/oklahoma",
+          "renew/oregon",
+          "renew/pennsylvania",
+          "renew/rhode-island",
+          "renew/south-carolina",
+          "renew/south-dakota",
+          "renew/tennessee",
+          "renew/texas",
+          "renew/utah",
+          "renew/vermont",
+          "renew/virginia",
+          "renew/washington",
+          "renew/west-virginia",
+          "renew/wisconsin",
+          "renew/wyoming"
+          
+        ]
+      }
+      ]
+    },
+    {
+      "group": "Car Care",
+      "pages": [
+        {
+        "group": 
+        "Routine maintenance",
+        "pages": [
+          "car-care/routine-maintenance",
+          "car-care/body-paint-maintenance",
+          "car-care/how-to-jump-start-car",
+          "car-care/doors-locks-maintenance",
+          "car-care/tire-maintenance",
+          "car-care/windshield-and-wiper-maintenance"
+        ]
+      },
+        "car-care/diy-repairs"
+      ]
+    },
+
+   {
+      "group": "Commercial Driving",
+      "pages": [
+        "cdl/introduction",
+  {
+        "group": "Getting a CDL",
+        "pages": [
+          "cdl/cdl-definition",
+          "cdl/requirements-eligibility",
+          "cdl/application-process",
+          "cdl/study-materials",
+          "cdl/essentials/practice-tests"
+        ]
+  },
+   "cdl/fees-costs",
+  {
+    "group": "CDL Types & Permits",
+    "pages": [
+      "cdl/cdl-types/classification",
+      {
+        "group": "Specific CDL Types",
+        "pages": [
+          "cdl/cdl-types/cdl-permit",
+          "cdl/cdl-types/class-a-cdl",
+          "cdl/cdl-types/class-b-cdl",
+          "cdl/cdl-types/class-c-cdl"
+        ]
       }
     ]
+  },
+
+  {
+  "group": "Endorsements & Restrictions",
+  "pages": [
+    "cdl/cdl-types/endorsements/introduction",
+    {
+      "group": "Specific Endorsements",
+      "pages": [
+        "cdl/cdl-types/endorsements/air-brakes",
+        "cdl/cdl-types/endorsements/hazmat",
+        "cdl/cdl-types/endorsements/passenger",
+        "cdl/cdl-types/endorsements/school-bus",
+        "cdl/cdl-types/endorsements/tanker",
+        "cdl/cdl-types/endorsements/doubles-triples"
+      ]
+    }
+  ]
+},
+  {
+    "group": "CDL Exam Preparation",
+    "pages": [
+       {
+      "group": "Written exams",
+      "pages": [
+        "cdl/essentials/written-tests/overview",
+        "cdl/essentials/written-tests/general-knowledge",
+        "cdl/essentials/written-tests/air-brakes",
+        "cdl/essentials/written-tests/combination",
+        "cdl/essentials/written-tests/hazmat",
+        "cdl/essentials/written-tests/tankers",
+        "cdl/essentials/written-tests/doubles-triples",
+        "cdl/essentials/written-tests/passenger",
+        "cdl/essentials/written-tests/school-bus"
+        
+          ]
+        },
+
+        {
+        "group": "Practical exams",
+        "pages": [
+          "cdl/essentials/skills-test",
+          "cdl/essentials/pre-trip"
+        ]
+      },
+         "cdl/essentials/tsa-background-check",
+         "cdl/essentials/retake-policy"
+    ]
+  },
+  {
+    "group": "CDL Maintenance",
+    "pages": [
+      "cdl/maintain/renew",
+      "cdl/maintain/medical-exams",
+      "cdl/maintain/dot-physical-exam",
+      "cdl/maintain/upgrade"
+    ]
+  },
+  {
+    "group": "ELDT Training & Certification",
+    "pages": [
+      "cdl/eldt-certification/eldt-training",
+      "cdl/eldt-certification/eldt-certificate",
+      "cdl/eldt-certification/training-provider-registry"
+    ]
+  },
+  {
+      "group": "CDL how-to guides",
+      "pages": [
+        "cdl/articles/become-owner-operator"
+      ]
+    }
+      ]
+    },
+    {
+      "group": "Driving Tips & Tricks",
+      "pages": [
+        "how-to/how-to-back-into-parking-space",
+        "how-to/how-to-make-a-u-turn",
+        "how-to/prepare-for-your-dmv-permit-test",
+        "how-to/failed-drivers-license-test"
+      ]
+    }
+  ],
+  "footerSocials": {
+    "twitter": "https://twitter.com/driving_tests"
   }
 }
